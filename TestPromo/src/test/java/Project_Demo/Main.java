@@ -33,6 +33,7 @@ public class Main {
         } 
         catch (Exception e ) {
             System.out.println("No alert");
+            System.out.println("No alert");
         }
 		
         JavascriptExecutor js=(JavascriptExecutor)driver;
